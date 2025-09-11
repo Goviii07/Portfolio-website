@@ -30,6 +30,7 @@ const projects = [
         demoUrl: "https://chess-web-zero-zero.vercel.app/",
         githubUrl: "#",
     },
+    
 ];
 
 export const ProjectsSection = () => {
