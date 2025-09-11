@@ -102,7 +102,7 @@ export const ContactSection = () => {
                                 <a href="https://www.instagram.com/goviii_sharma/" target="_blank">
                                     <Instagram />
                                 </a>
-                                <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+                                <a href="https://mail.google.com/mail" target="_blank">
                                     <Mail />
                                 </a>
                             </div>
