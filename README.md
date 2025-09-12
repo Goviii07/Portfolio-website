@@ -34,16 +34,45 @@ A modern, responsive, personal portfolio website built with React, TailwindCSS, 
 
 ```bash
 .
-├── src
-│   ├── components
-│   │   └── ContactSection.jsx   # Contact form & contact info
-│   ├── firebase.js              # Firebase configuration & Firestore setup
-│   ├── App.jsx                  # Main application component
-│   └── ...
 ├── public
-│   └── index.html
+│   ├── projects
+│   └── gs_logo_black.svg
+├── src
+│   ├── assets
+│   ├── components
+│   │   ├── ui                 # Shared UI components (empty in image)
+│   │   ├── AboutSection.jsx
+│   │   ├── ContactSection.jsx
+│   │   ├── Footer.jsx
+│   │   ├── HeroSection.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── ProjectsSection.jsx
+│   │   ├── SkillsSection.jsx
+│   │   ├── StarBackground.jsx
+│   │   └── ThemeToggle.jsx
+│   ├── hooks
+│   │   └── use-toast.js
+│   ├── lib
+│   ├── pages
+│   │   ├── Home.jsx
+│   │   └── NotFound.jsx
+│   ├── App.jsx
+│   ├── firebase.js          # Firebase configuration
+│   ├── index.css
+│   └── main.jsx
+├── .firebase
+├── .firebaserc
+├── .gitignore
+├── .eslintrc.js
+├── firebase.json
+├── firestore.indexes.json
+├── firestore.rules
+├── index.html
+├── package-lock.json
 ├── package.json
-└── README.md
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
 ````
 
 -----
