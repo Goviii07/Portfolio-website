@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Black circular background -->
+  <circle cx="256" cy="256" r="240" fill="#181717" />
+
+  <!-- Inner rings for a modern touch -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#ffffff20" stroke-width="2" />
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#ffffff30" stroke-width="2" stroke-dasharray="10 8" />
+
+  <!-- Initials GS in white -->
+  <text x="50%" y="55%" font-family="Segoe UI, Roboto, sans-serif" font-size="140" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    GS
+  </text>
+</svg>
