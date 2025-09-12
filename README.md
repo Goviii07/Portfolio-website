@@ -1,34 +1,32 @@
-````markdown
-# 🌐 Govind Sharma – Portfolio Website
+🌐 Govind Sharma – Portfolio Website
+A modern, responsive, personal portfolio website built with React, TailwindCSS, and shadcn/ui. This project is designed to showcase my work, skills, and projects in a sleek and professional manner. The site also features a Contact Form integrated with Firebase Firestore, allowing visitors to send messages directly.
 
-A **modern, responsive, personal portfolio website** built with **React**, **TailwindCSS**, and **shadcn/ui**. This project is designed to showcase my work, skills, and projects in a sleek and professional manner. The site also features a **Contact Form** integrated with **Firebase Firestore**, allowing visitors to send messages directly.
+✨ Features
+📱 Responsive Design: Adapts to all screen sizes, from mobile to desktop.
 
----
+🚀 High Performance: Built with React and TailwindCSS for a fast and efficient user experience.
 
-## ✨ Features
+🎨 Modern UI: Uses shadcn/ui for a consistent, professional, and accessible component library.
 
-* 📱 **Responsive Design**: Adapts to all screen sizes, from mobile to desktop.
-* 🚀 **High Performance**: Built with **React** and **TailwindCSS** for a fast and efficient user experience.
-* 🎨 **Modern UI**: Uses **shadcn/ui** for a consistent, professional, and accessible component library.
-* ✨ **Clean Visuals**: Incorporates **Lucide Icons** for a crisp and lightweight icon set.
-* ✉️ **Integrated Contact Form**: Seamlessly connects to **Firebase Firestore** to store and manage messages.
-* 🔗 **Social Links**: Provides easy access to my professional social media platforms for networking.
+✨ Clean Visuals: Incorporates Lucide Icons for a crisp and lightweight icon set.
 
----
+✉️ Integrated Contact Form: Seamlessly connects to Firebase Firestore to store and manage messages.
 
-## 🛠️ Tech Stack
+🔗 Social Links: Provides easy access to my professional social media platforms for networking.
+
+🛠️ Tech Stack
 
 ### Frontend
-* ⚛️ **React**
-* 🌬️ **TailwindCSS**
-* 💅 **shadcn/ui**
-* ✨ **Lucide Icons**
+* ⚛️ *React*
+* 🌬️ *TailwindCSS*
+* 💅 *shadcn/ui*
+* ✨ *Lucide Icons*
 
 ### Backend/Database
-* 🔥 **Firebase Firestore**
+* 🔥 *Firebase Firestore*
 
 ### Deployment
-* ☁️ **Vercel** / **Netlify** / **GitHub Pages** (Choose the one you use)
+* ☁️ *Vercel*
 
 ---
 
